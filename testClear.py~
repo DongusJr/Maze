@@ -1,0 +1,4 @@
+import time, insert
+print("Hello World\n"*50)
+time.sleep(1)
+os.system("cls")
